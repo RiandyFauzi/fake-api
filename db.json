@@ -17,12 +17,12 @@
       "completed": true
     },
     {
-      "id": 1, 
+      "id": 2, 
       "text": "makan", 
       "completed": false
     },
     {
-      "id": 1,
+      "id": 3,
       "text": "bersih-bersih", 
       "completed": false
     }
@@ -35,7 +35,7 @@
       "nohp": "088138491728"
     },
     {
-      "id": 1,
+      "id": 2,
       "nama": "Atang Sukma Jaya",
       "nohp": "082274819274"
     }
