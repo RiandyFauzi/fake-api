@@ -2,7 +2,6 @@
   "todos" : [
     {"id": 1, "text": "mandi", "completed": true},
     {"id": 1, "text": "makan", "completed": false},
-    {"id": 1, "text": "bersih-bersih", "completed": false},
+    {"id": 1, "text": "bersih-bersih", "completed": false}
     ]
- 
 }
