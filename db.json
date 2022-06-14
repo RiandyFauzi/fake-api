@@ -5,14 +5,17 @@
       "title": "hello"
     }
   ],
+  
   "profile": {
     "name": "typicode"
   },
+  
   "todos" : [
     {"id": 1, "text": "mandi", "completed": true},
     {"id": 1, "text": "makan", "completed": false},
     {"id": 1, "text": "bersih-bersih", "completed": false}
     ],
+  
   "kontaks": [
     {
       "id": 1,
@@ -24,5 +27,6 @@
       "nama": "Atang Sukma Jaya",
       "nohp": "082274819274"
     }
+    ]
   
 }
