@@ -1,7 +1,7 @@
 {
-"todos": {
-{"id": 0, "text": "bersih-bersih", "completed": false},
-{"id": 1, "text": "belajar", "completed": true},
-{"id": 2, "text": "mandi", "completed": false},
-}
+  "todos": [
+  {"id": 0, "text": "bersih-bersih", "completed": false},
+  {"id": 1, "text": "belajar", "completed": true},
+  {"id": 2, "text": "mandi", "completed": false}
+  ]
 }
