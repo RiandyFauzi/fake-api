@@ -3,17 +3,21 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "hi there"
     }
   ],
   
   "profile": {
-    "name": "typicode"
+    "name": "myprofile"
   },
   
   "todos" : [
     {
       "id": 1,
-      "text": "mandi",
+      "text": "learning-python",
       "completed": true
     },
     {
@@ -25,10 +29,15 @@
       "id": 3,
       "text": "bersih-bersih", 
       "completed": false
+    },
+    {
+      "id": 4,
+      "text": "laravel-mastering",
+      "completed": true
     }
   ],
   
-  "kontaks": [
+  "contacts": [
     {
       "id": 1,
       "nama": "Tono Abdul Soleh",
@@ -38,6 +47,11 @@
       "id": 2,
       "nama": "Atang Sukma Jaya",
       "nohp": "082274819274"
+    },
+    {
+      "id": 3,
+      "nama": "Catang Station",
+      "nohp": "082274812345"
     }
   ]
 }
